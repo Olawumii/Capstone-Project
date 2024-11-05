@@ -45,3 +45,6 @@ This involves comparison and analysis of data to provide solutions to a business
 3. Sales per region
 4. Monthly sales performance.
     
+### Data Visualization
+
+https://github.com/Olawumii/Capstone-Project/blob/main/Screenshot%202024-11-05%20165328.png

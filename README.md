@@ -47,4 +47,3 @@ This involves comparison and analysis of data to provide solutions to a business
     
 ### Data Visualization
 
-https://github.com/Olawumii/Capstone-Project/blob/main/Screenshot%202024-11-05%20165328.png
